@@ -1,0 +1,7 @@
+comment installer le tools:
+apt update && apt install git -y
+apt install python3 -y
+git clone https://github.com/hacker2108-maker/Tool-installer.git
+cd Tool-installer
+python3 Tool-Installer.py
+
